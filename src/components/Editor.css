@@ -1,0 +1,42 @@
+*{
+    background-color: rgb(0, 76, 255);
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+}
+
+.input{
+    width: 30vw;
+    margin-right: 3vw;
+    margin-top: 1vh;
+}
+
+.input-text{
+    border: solid rgb(59, 59, 59);
+    border-width: .7vh;
+    width: 30vw;
+    height: 50vh;
+    color: white;
+    padding: 3%;
+}
+
+.output{
+    width: 30vw;
+    margin-left: 3vw;
+}
+
+.output-text{
+    background-color: rgb(59, 59, 59);
+    width: 35vw;
+    height: 55vh;
+    color: white;
+    padding: 3%;
+}
+
+h3{
+    color: white;
+}
